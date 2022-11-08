@@ -14,3 +14,58 @@ header{
     vertical-align: middle;
     font-size: 40px;
 }
+main{
+    background-color: #f6f8f9;
+}
+.lista-centrale{
+    text-align: center;
+    margin-top: 70px;
+    margin-left: 100px;
+    margin-right: 200px;
+    background-color: #ffffff;
+    
+   
+}
+.sezioni{
+    
+    
+    background-color: #ffffff;
+   
+}
+.bottone{
+    border-radius: 7px;
+    line-height: 40px;
+    padding: 0 10px;
+    
+   
+
+    
+
+}
+.button-on{
+    background-color: #47adf1;
+    border:2px solid #47adf1 ;
+    color: #ffffff;
+    
+}
+.button-off{
+    background-color: #ffffff;
+    border: 2px solid lightgrey;
+    color: lightgray;
+    
+}
+.opzioni{
+    margin-right: 700px;
+}
+.font{
+    font-size: 20px;
+}
+.bottone-uno{
+    border-radius: 7px;
+}
+
+
+
+    
+
+
