@@ -3,10 +3,15 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    background-color: #f6f8f9;
+}
 header{
     margin-left: 15px;
     margin-top: 10px;
     line-height: 40px;
+    background-color: #ffffff;
+    
 }
 #logo{
     vertical-align: middle;
@@ -14,18 +19,21 @@ header{
 #main-title{
     vertical-align: middle;
     font-size: 40px;
-}
-main{
-    background-color: #f6f8f9;
-    margin-top: 5px;
-    text-align: left;
-    
-    
     
 }
+
+    
+    
+    
+    
+    
+
 .container{
     background-color: #ffffff;
     margin: 30px 200px 0 200px;
+    border: 2px solid #ffffff;
+    border-radius: 7px 7px 0 0;
+    padding: 7px 0;
    
   
     
@@ -61,6 +69,12 @@ main{
     text-align: left;
     margin-left: 200px;
     margin-right: 200px;
+    margin-top: 7px;
+    margin-bottom: 30px;
+    border: 2px solid #ffffff;
+    border-radius: 0 0 7px 7px;
+    padding: 7px 0;
+
     
     
 }
@@ -102,6 +116,7 @@ div{
     height: 20px;
     border: 2px solid  aqua;
     color: aqua;
+    padding: 0 0 3px 1px;
     
     
     
@@ -115,6 +130,7 @@ div{
     width: 20px;
     height: 20px;
     border: 2px solid red;
+    padding: 0 0 3px 1px;
     
     
     
