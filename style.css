@@ -16,26 +16,21 @@ header{
 }
 main{
     background-color: #f6f8f9;
-}
-.lista-centrale{
+    margin-top: 50px;
     text-align: center;
-    margin-top: 70px;
-    margin-left: 100px;
-    margin-right: 200px;
-    background-color: #ffffff;
     
-   
 }
-.sezioni{
-    
-    
+.container{
     background-color: #ffffff;
-   
+    margin: 0 200px 0 200px;
 }
+
+   
+
 .bottone{
     border-radius: 7px;
     line-height: 40px;
-    padding: 0 10px;
+    padding: 0 5px;
     
    
 
@@ -54,14 +49,41 @@ main{
     color: lightgray;
     
 }
-.opzioni{
-    margin-right: 700px;
+
+.seconda-parte{
+    background-color: #ffffff;
+    text-align: left;
+    margin-left: 200px;
+    margin-right: 200px
 }
+
 .font{
     font-size: 20px;
 }
 .bottone-uno{
     border-radius: 7px;
+}
+
+div{
+    margin-top: 40px;
+}
+.bottone-due{
+    background-color:purple;
+    border:2px solid purple;
+    color: #ffffff;
+}
+.lista{
+    margin-top: 20px;
+}
+.bottone-tre{
+    background-color:rgb(62, 128, 0);
+    border:2px solid rgb(62, 128, 0);
+    color: #ffffff;
+}
+.bottone-quattro{
+    background-color:rgb(255, 156, 43);
+    border:2px solid rgb(255, 156, 43);
+    color: #ffffff;
 }
 
 
